@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&text=hyeong-ing's%20GITHUB&fontSize=40&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=6&height=200&text=hyeong-ing's%20GITHUB&fontSize=40&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <!--
 **hyeong-ing/hyeong-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
