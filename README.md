@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=30&height=200&text=hyeong-ing's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=30&height=200&text=🌊hyeong-ing's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=40)
 
-# STUDYING... 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=ffffff"/>
+# 🌊STUDYING... 📝
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/H2 Database-09476B?style=flat-square&logo=h2database&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=ffffff"/>
+
+
