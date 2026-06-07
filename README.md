@@ -6,7 +6,34 @@
 
 </p>  
 
+<br/>
+<br/>
 
+# 🌐 Server Deployment... 
+#####   이미지를 누르면 페이지로 이동합니다 (Click on the image to go to the page.)
+
+<table align="center">
+  <tr align="center">
+    <td>
+      <h4>🪄 Create Lotto Magic circle</h4>
+      <a href="https://lotto-magic-frontend.vercel.app/">
+        <img width="475" height="270" alt="Lotto" src="https://github.com/user-attachments/assets/62582ac2-5754-405e-9861-67cd1f5f3a46" />
+      </a>
+     <h5> 원하는 선택 요소를 넣고 나만의 로또 번호와 마법진을 만들어보세요. </h5>
+     <h5> 오늘의 행운 점수와 메시지도 있답니다. </h5>
+    </td>
+    <td>
+      <h4>🐰 Rabbit and Turtle Game 🐢</h4>
+      <a href="https://rabbitandturtle.vercel.app/home">
+        <img width="475" height="270" alt="game" src="https://github.com/user-attachments/assets/4d336dee-5a93-4575-96e6-886a83b54138" />
+      </a>
+      <h5> 오로지 Vue로만 만든 간단한 게임입니다. </h5>
+      <h5> 토끼와 거북이 경주게임으로 친구들과 내기를 해보세요. </h5>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <br/>
 <br/>
 
@@ -48,19 +75,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-<br/>
-<br/>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeong-ing&show_icons=true&theme=nord&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeong-ing&layout=compact&theme=nord&hide_border=true" height="180" />
-</p>
-
 
 <br/>
 <br/>
-
+<br/>
 
 
 # 🌊 ABOUT ME...
@@ -68,3 +86,7 @@
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhyeong-ing&label=&icon=github&color=%2313795b&message=&style=for-the-badge&tz=Asia%2FSeoul)  
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpost-this.tistory.com%2F&label=&icon=stars&color=%23c5b3e6&message=&style=for-the-badge&tz=Asia%2FSeoul)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeong-ing&show_icons=true&theme=nord&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeong-ing&layout=compact&theme=nord&hide_border=true" height="180" />
+</p>
