@@ -79,8 +79,8 @@
 <br/>
 
 # 🌐 Server Deployment... 
-#####   이미지를 누르면 페이지로 이동합니다 (Click on the image to go to the page.)
-
+#####   이미지를 누르면 페이지로 이동합니다.
+#####   백엔드는 Render, 프론트엔드는 Vercel로 배포했습니다.
 <table align="center">
   <tr align="center">
     <td>
@@ -90,6 +90,7 @@
       </a>
      <h5> 원하는 선택 요소를 넣고 나만의 로또 번호와 마법진을 만들어보세요. </h5>
      <h5> 오늘의 행운 점수와 메시지도 있답니다. </h5>
+     <br/>
     </td>
     <td>
       <h4>🐰 Rabbit and Turtle Game 🐢</h4>
@@ -98,6 +99,7 @@
       </a>
       <h5> 오로지 Vue로만 만든 간단한 게임입니다. </h5>
       <h5> 토끼와 거북이 경주게임으로 친구들과 내기를 해보세요. </h5>
+     <br/>
     </td>
   </tr>
 </table>
