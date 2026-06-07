@@ -17,7 +17,7 @@
     <td>
       <h4>🪄 Create Lotto Magic circle</h4>
       <a href="https://lotto-magic-frontend.vercel.app/">
-        <img width="475" height="270" alt="Lotto" src="https://github.com/user-attachments/assets/62582ac2-5754-405e-9861-67cd1f5f3a46" />
+        <img width="400" height="209" alt="Lotto" src="https://github.com/user-attachments/assets/62582ac2-5754-405e-9861-67cd1f5f3a46" />
       </a>
      <h5> 원하는 선택 요소를 넣고 나만의 로또 번호와 마법진을 만들어보세요. </h5>
      <h5> 오늘의 행운 점수와 메시지도 있답니다. </h5>
@@ -25,7 +25,7 @@
     <td>
       <h4>🐰 Rabbit and Turtle Game 🐢</h4>
       <a href="https://rabbitandturtle.vercel.app/home">
-        <img width="475" height="270" alt="game" src="https://github.com/user-attachments/assets/4d336dee-5a93-4575-96e6-886a83b54138" />
+        <img width="400" height="209" alt="game" src="https://github.com/user-attachments/assets/4d336dee-5a93-4575-96e6-886a83b54138" />
       </a>
       <h5> 오로지 Vue로만 만든 간단한 게임입니다. </h5>
       <h5> 토끼와 거북이 경주게임으로 친구들과 내기를 해보세요. </h5>
