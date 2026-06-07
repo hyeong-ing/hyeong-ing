@@ -79,8 +79,9 @@
 <br/>
 
 # 🌐 Server Deployment... 
-#####   이미지를 누르면 페이지로 이동합니다.
-#####   백엔드는 Render, 프론트엔드는 Vercel로 배포했습니다.
+-   이미지를 누르면 페이지로 이동합니다.
+-   백엔드는 Render, 프론트엔드는 Vercel로 배포했습니다.
+<br/>
 <table align="center">
   <tr align="center">
     <td>
