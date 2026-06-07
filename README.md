@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeong-ing)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/hyeong-ing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeong-ing&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <br/>
 <br/>
