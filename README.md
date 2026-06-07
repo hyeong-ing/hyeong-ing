@@ -52,8 +52,10 @@
 <br/>
 
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeong-ing&show_icons=true&theme=nord&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeong-ing&layout=compact&theme=nord&hide_border=true" height="180" />
+</p>
 
 
 <br/>
@@ -63,6 +65,6 @@
 
 # 🌊 ABOUT ME...
 <a href="https://post-this.tistory.com/"><img src="https://img.shields.io/badge/tistory-fc5635?style=for-the-badge&logo=tistory&logoColor=white&link=https://post-this.tistory.com/"/></a>   
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhyeongging&label=&icon=github&color=%23479f76&message=&style=for-the-badge&tz=Asia%2FSeoul)   
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhyeong-ing&label=&icon=github&color=%2313795b&message=&style=for-the-badge&tz=Asia%2FSeoul)  
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpost-this.tistory.com%2F&label=&icon=stars&color=%23c5b3e6&message=&style=for-the-badge&tz=Asia%2FSeoul)
 
