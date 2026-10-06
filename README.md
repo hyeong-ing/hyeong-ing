@@ -22,14 +22,14 @@
 
 프로젝트를 끝낼 때마다 새롭게 생긴 궁금증과 부족했던 경험을 다음 프로젝트의 목표로 이어가고 있습니다.
 
-| Project | Focus |
-| --- | --- |
-| **SimpleLotto** | Spring 기반 웹 서비스의 기본 흐름 |
-| **Register Web** | Frontend · Backend 연결, 일반 · 소셜 로그인 |
-| **Rabbit & Turtle** | Vue를 활용한 화면 상태 변화와 애니메이션 |
-| **InviteVIP** | 인증 · 로그아웃 · 권한 · DB · 검색 |
-| **Lotto Magic** | API 규격 · 테스트 · 독립 개발 · 배포 |
-| **Training Insight** | AI Agent 기반 개발과 기존 프로젝트 재개선 |
+| Project | Focus | Link |
+| --- | --- | --- |
+| **SimpleLotto** | Spring 기반 웹 서비스의 기본 흐름 | [GitHub](https://github.com/hyeong-ing/SimpleLotto) |
+| **Register Web** | Frontend · Backend 연결, 일반 · 소셜 로그인 | [GitHub-프론트엔드](https://github.com/hyeong-ing/Register-Web-frontend) <br/>  [GitHub-백엔드](https://github.com/hyeong-ing/Register-Web-backend) ||
+| **Rabbit & Turtle** | Vue를 활용한 화면 상태 변화와 애니메이션 | [GitHub](https://github.com/hyeong-ing/RabbitAndTurtleGame) |
+| **InviteVIP** | 인증 · 로그아웃 · 권한 · DB · 검색 | [GitHub-프론트엔드](https://github.com/hyeong-ing/invitevip-frontend) <br/> [GitHub-백엔드](https://github.com/hyeong-ing/invitevip-backend) |
+| **Lotto Magic** | API 규격 · 테스트 · 독립 개발 · 배포 | [GitHub-프론트엔드](https://github.com/hyeong-ing/lotto-magic-frontend) <br/> [GitHub-백엔드](https://github.com/hyeong-ing/lotto-magic-backend) |
+| **Training Insight** | AI Agent 기반 개발과 기존 프로젝트 재개선 | [GitHub-프론트엔드](https://github.com/hyeong-ing/TrainingInsight-frontend) <br/> [GitHub-백엔드](https://github.com/hyeong-ing/TrainingInsight-backend) |
 
 <br/>
 <br/>
